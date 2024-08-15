@@ -1,2 +1,2 @@
 # Sistema-Market
-Un sistema de una tienda hecho con Djnago
+Un sistema de una tienda hecho con Django
